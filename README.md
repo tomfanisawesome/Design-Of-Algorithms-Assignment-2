@@ -1,5 +1,5 @@
 # Design of Algorithms assignment 2 
-this assignment is split into 3 parts where each parts gets harder.
+This assignment is split into 3 parts where each parts invovles some data structures and algorithms problems.
 
 part 1 student is expected to write a heap tree 
 
